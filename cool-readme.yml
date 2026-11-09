@@ -1,0 +1,10 @@
+# Settings: https://github.com/pedrocatalao/github-cool-readme#settings
+user: CrEaK
+show: [summary, languages, contributions, weekly, streaks]
+count:
+  private: true
+  orgs: true
+look:
+  style: classic
+  color: amber
+  background: none
